@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+<category>
+<pattern>* ACADEMICS</pattern>
+<template> Academics consists of Programmes (UG,PG,PhD), Academic Calendar, Syllabus, COMMITTEES. Link: 
+1. https://msit.edu.in/index.php/master/page/program 
+2. https://msit.edu.in/index.php/master/page/calendar 
+3. https://msit.edu.in/index.php/master/page/syllabus 
+4. https://msit.edu.in/index.php/master/page/committee
+</template>
+</category>      
+
+<category>
+<pattern>* UG PROGRAMMES IT</pattern>
+<template> To know Different UG Programmes available follow the Link:
+ 
+IT: 
+
+https://msit.edu.in/index.php/master/page/it
+</template>
+</category>      
+
+<category>
+<pattern>* UG PROGRAMMES CSE</pattern>
+<template> To know Different UG Programmes available follow the Link:
+CSE: https://msit.edu.in/index.php/master/page/cse 
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES ECE</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+ECE: https://msit.edu.in/index.php/master/page/ece 
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES CE</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+CE: https://msit.edu.in/index.php/master/page/ce 
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES ME</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+ME: https://msit.edu.in/index.php/master/page/me 
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES EE</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+EE:https://msit.edu.in/index.php/master/page/ee 
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES CSBS</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+CSBS: https://msit.edu.in/index.php/master/page/csbs 
+
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES BSC</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+BSC: https://msit.edu.in/index.php/master/page/bsc 
+
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES BCA</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+BCA: https://msit.edu.in/index.php/master/page/deptCA 
+
+</template>
+</category>
+
+<category>
+<pattern>* UG PROGRAMMES BSH</pattern>
+<template> To know Different UG Programmes available follow the Link:
+
+BSH: https://msit.edu.in/index.php/master/page/bsh
+
+</template>
+</category>
+
+<category>
+<pattern>* POSTGRADUATE PROGRAMMES</pattern>
+<template>To know Different PG Programmes available follow the link 
+Link: 
+MCA: https://msit.edu.in/index.php/master/page/deptCA 
+MS: https://msit.edu.in/index.php/master/page/deptMS
+</template>
+</category>      
+
+
+<category>
+<pattern>* PG PROGRAMMES</pattern>
+<template>To know Different PG Programmes available follow the link 
+
+Link: 
+HMCA: https://msit.edu.in/index.php/master/page/deptCA 
+MS: https://msit.edu.in/index.php/master/page/deptMS
+</template>
+</category>      
+  
+
+         
+
+<category>
+<pattern>* OPEN ELECTIVE</pattern>
+<template> Different Open Electives available are 
+Open electives offered by Department of Applied Sciences
+    Combinatorial Theories MAT 301 
+    Numerical Techniques MAT 302 
+    Nanotechnology PHT302 
+    Solid State Lighting PHT303 
+    Employability skills for engineers HUT 300-1 
+    Statistical Methods for Business and Management MAT 303 
+    Challenges of Human Resource Development HUT300-2 
+    Orientation in German Language HUT300-4 
+    Non Conventional Energy Sources and Environmental Pollution CHT300-2 
+    Psychology for Professional Growth HUT300-3 
+    Quantum Mechanics for Engineers PHT301 
+Open electives offered by Department of Management Technology 
+    Financial Management MBT610-1 
+    Innovation and Entrepreneurship MBT610-3 
+    Entrepreneurship Development MBT610-2 
+Open electives offered by Department of Computer Applications 
+    Introduction to Object Oriented Programming MCT-300 
+</template>
+</category>      
+
+
+
+<category>
+<pattern>* OPEN ELECTIVES</pattern>
+<template> Different Open Electives available are 
+Open electives offered by Department of Applied Sciences
+    Combinatorial Theories MAT 301 
+    Numerical Techniques MAT 302 
+    Nanotechnology PHT302 
+    Solid State Lighting PHT303 
+    Employability skills for engineers HUT 300-1 
+    Statistical Methods for Business and Management MAT 303 
+    Challenges of Human Resource Development HUT300-2 
+    Orientation in German Language HUT300-4 
+    Non Conventional Energy Sources and Environmental Pollution CHT300-2 
+    Psychology for Professional Growth HUT300-3 
+    Quantum Mechanics for Engineers PHT301 
+Open electives offered by Department of Management Technology 
+    Financial Management MBT610-1 
+    Innovation and Entrepreneurship MBT610-3 
+    Entrepreneurship Development MBT610-2 
+Open electives offered by Department of Computer Applications 
+    Introduction to Object Oriented Programming MCT-300 
+</template>
+</category>      
+
+<category>
+<pattern>* SYLLABUS</pattern>
+<template> 
+LINK:  https://msit.edu.in/index.php/master/page/syllabus
+</template>
+</category> 
+     
+<category>
+<pattern>* MEMBERS ACADEMIC COUNCIL</pattern>
+<template> To know about the members of academic council follow the link
+Link: https://msit.edu.in/index.php/master/page/committee
+</template>
+</category>
+      
+<category>
+<pattern>* CENTRAL LIBRARY</pattern>
+<template> Central Library
+Meghnad Saha Instituite of Technology's central library is well stocked with books, containing all the latest editions of the publications related to the curriculum. enabling the students to enhance their knowledge on different topics and subjects incorporated in their courses. The latest periodicals, journals and other publications are also provided for constant updation in the field of Science and Technology.
+
+ 
+To know more please follow the link given below:
+
+Link: https://msit.edu.in/index.php/master/page/lib
+</template>
+</category>  
+
+
+<category>
+<pattern>ACADEMIC CALENDAR UG</pattern>
+<template> You can get the academic calendar for UG from the link given below 
+http://makautexam.net/aicte_details/aicteugdetails.html
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR MTECH</pattern>
+<template> You can get the academic calendar for MTECH from the link given below 
+http://makautexam.net/aicte_details/aictepgdetails.html
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR MCA</pattern>
+<template> You can get the academic calendar for MCA from the link given below 
+http://makautexam.net/aicte_details/aictepgdetails.html
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR MBA INTEGRATED</pattern>
+<template> You can get the academic calendar FOR MBA INTEGRATED from the link given below 
+http://makautexam.net/aicte_details/aictepgdetails.html
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR BTECHIT FIRST SEMESTER</pattern>
+<template> You can get the academic calendar FOR IT FIRST SEMESTER from the link given below 
+http://makautexam.net/aicte_details/Syllabus/BTECH.pdf
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR MTECHIT ALL SEMESTER</pattern>
+<template> You can get the academic calendar FOR IT ALL SEMESTER from the link given below 
+http://makautexam.net/aicte_details/Syllabus/MTECHIT/AllSem.pdf
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR MCA FIRST SEMESTER</pattern>
+<template> You can get the academic calendar FOR MCA FIRST SEMESTER from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/MCA20.pdf
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR MBA INTEGRATED ALL SEMESTER</pattern>
+<template> You can get the academic calendar FOR MBA INTEGRATED from the link given below 
+http://makautexam.net/aicte_details/Syllabus/MBAF/AllSem.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS CIVIL ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF CIVIL ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/Syllabus/CE/AllSem.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS COMPUTER SCIENCE ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF COMPUTER SCIENCE AND ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/Syllabus/AICTE-UG/CSE/2010-11/CSE_Final_Upto_4h_Year%20Syllabus_14.03.14.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS CSE</pattern>
+<template> You can get the SYLLABUS OF COMPUTER SCIENCE AND ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/CSE.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS ELECTRICAL ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRICAL ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/EE.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS ELECTRONICS AND INSTRUMENTATION ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRONICS ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/AEIE.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS ELECTRONICS AND COMMUNICATION ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRONICS AND COMMUNICATION ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/ECE.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS INFORMATION TECHNOLOGY</pattern>
+<template> You can get the SYLLABUS OF INFORMATION TECHNOLOGY from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/IT.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS IT</pattern>
+<template> You can get the SYLLABUS OF INFORMATION TECHNOLOGY from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/IT.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS MECHANICAL ENGINEERING </pattern>
+<template> You can get the SYLLABUS OF MECHANICAL ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/ME.pdf
+</template>
+</category>
+
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF MCA</pattern>
+<template> You can get the SYLLABUS OF MCA from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/MCA20.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS MBA</pattern>
+<template> You can get the SYLLABUS OF MBA from the link given below 
+http://rknec.edu/Academics/Syllabus/2017-18/MBA-Course%20Book%202017%20(2017%20-%2019)1.pdf
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS MBA INTEGRATED</pattern>
+<template> You can get the SYLLABUS OF MBA INTEGRATED from the link given below 
+http://makautexam.net/aicte_details/Syllabus/MBAF/AllSem.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS CIVIL ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF CIVIL ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/Syllabus/CE/AllSem.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS COMPUTER SCIENCE ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF COMPUTER SCIENCE AND ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/Syllabus/AICTE-UG/CSE/2010-11/CSE_Final_Upto_4h_Year%20Syllabus_14.03.14.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS CSE</pattern>
+<template> You can get the SYLLABUS OF COMPUTER SCIENCE AND ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/CSE.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS ELECTRICAL ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRICAL ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/EE.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS ELECTRONICS AND INSTRUMENTATION ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRONICS ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/AEIE.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS ELECTRONICS AND COMMUNICATION ENGINEERING</pattern>
+<template> You can get the SYLLABUS OF ELECTRONICS AND COMMUNICATION ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/ECE.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS INFORMATION TECHNOLOGY</pattern>
+<template> You can get the SYLLABUS OF INFORMATION TECHNOLOGY from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/IT.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS IT</pattern>
+<template> You can get the SYLLABUS OF INFORMATION TECHNOLOGY from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/IT.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS MECHANICAL ENGINEERING </pattern>
+<template> You can get the SYLLABUS OF MECHANICAL ENGINEERING from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/ME.pdf
+</template>
+</category>
+
+<category>
+<pattern>MAY I KNOW THE SYLLABUS OF MCA</pattern>
+<template> You can get the SYLLABUS OF MCA from the link given below 
+http://makautexam.net/aicte_details/CourseStructure/MCA20.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS MBA</pattern>
+<template> You can get the SYLLABUS OF MBA from the link given below 
+http://rknec.edu/Academics/Syllabus/2017-18/MBA-Course%20Book%202017%20(2017%20-%2019)1.pdf
+</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS MBA INTEGRATED</pattern>
+<template> You can get the SYLLABUS OF MBA INTEGRATED from the link given below 
+http://makautexam.net/aicte_details/Syllabus/MBAF/AllSem.pdf
+</template>
+</category>
+
+</aiml>

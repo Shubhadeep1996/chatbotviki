@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	     
+<category>
+<pattern>* PRINCIPAL</pattern>
+<template>
+<random>
+<li>Prof. (Dr.) Sajal Saha is the PRINCIPAL of MSIT.</li>
+<li>Our PRINCIPAL is Prof. (Dr.) Sajal Saha</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>ABOUT</pattern>
+<template> 
+<random>
+<li>Please goto this link to get details of MSIT overview: https://msit.edu.in/index.php/master/page/about</li>
+<li>Have a look over here to get details of MSIT overview: https://msit.edu.in/index.php/master/page/about</li>
+<li>Click on this link to get details of MSIT overview: https://msit.edu.in/index.php/master/page/about</li>
+</random>			
+</template>
+</category>
+
+<category>
+<pattern>MEDICAL ROOM</pattern>
+<template>
+<random>
+<li>Please goto this link to know more about Medical Facilities : https://msit.edu.in/index.php/master/page/medroom</li> 
+<li>Have a look over here to know more about Medical Facilities : https://msit.edu.in/index.php/master/page/medroom</li>
+<li>Click on this link to know more about Medical Facilities : https://msit.edu.in/index.php/master/page/medroom</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>RESEARCH AND DEVELOPMENT</pattern>
+<template>
+<random>
+<li>Please goto this link to know more about RnD : https://msit.edu.in/index.php/master/page/rnd</li>
+<li>Have a look over here to know more about RnD : https://msit.edu.in/index.php/master/page/rnd</li>
+<li>Click on this link to know more about RnD : https://msit.edu.in/index.php/master/page/rnd</li>
+</random>       
+</template>
+</category>
+
+<category>
+<pattern>SUCCESS STORY</pattern>
+<template>
+<random>
+<li>Please goto this link to know more : https://msit.edu.in/index.php/master/page/SuccessStory</li>
+<li>Have a look over here to know more : https://msit.edu.in/index.php/master/page/SuccessStory</li>
+<li>Click on this link to know more : https://msit.edu.in/index.php/master/page/SuccessStory</li>
+</random>
+</template>
+</category>
+	
+<category>
+<pattern>* EXAMINATION COMMITTEE</pattern>
+<template>
+<random>
+<li>Please goto this link to get the details about C.E.C : https://msit.edu.in/index.php/master/page/centralExaminationCommittee</li>
+<li>Have a look over here to get the details about C.E.C : https://msit.edu.in/index.php/master/page/centralExaminationCommittee</li>
+<li>Click on this link to get the details about C.E.C : https://msit.edu.in/index.php/master/page/centralExaminationCommittee</li>
+</random>   
+</template>
+</category>
+
+<category>
+<pattern>* ENQUIRY</pattern>
+<template>
+<random>
+<li>Please goto this link : https://msit.edu.in/index.php/master/enquiry</li>
+<li>Have a look over here : https://msit.edu.in/index.php/master/enquiry</li>
+<li>Click on this link : https://msit.edu.in/index.php/master/enquiry</li>
+</random>   
+</template>
+</category>
+
+</aiml>
+	
+		
