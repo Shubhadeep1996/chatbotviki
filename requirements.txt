@@ -13,4 +13,4 @@ nltk==3.7
 regex==2022.3.2
 sqlparse==0.4.2
 tqdm==4.63.0
-Werkzeug==2.0.3
+Werkzeug==2.2.3
